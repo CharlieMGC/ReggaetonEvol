@@ -106,7 +106,320 @@ Content(3, "El Abeyarde" , "Tego Calderon" , "abayarde.jpg" , "https://music.app
     {title: "Guatauba- Plan B" , url: ""},
     {title: "Se enciende la disco- Don Omar" , url: ""},
 ])
-
+Content(4, "The Last Don" , "Don Omar" , "don.jpg" , "https://music.apple.com/mx/album/the-last-don/1467968644" ,
+    [
+        'En el año 2003, el reguetón comenzó a recibir críticas por el alto contenido sexual de sus letras y bailes. Algunos críticos argumentaban que el género ofrecía una imagen negativa de la mujer' ,
+        'Algunos artistas, como Aleks Syntek, expresaron su descontento con el reguetón. Syntek lo llamó “música hecha por simios” y "pornografía auditiva".'
+    ], [
+        {title: "Dile- Don Omar" , url: ""},
+        {title: "Dale Don dale- Don Omar" , url: ""},
+        {title: "Aventura- Wisin y Yandel" , url: ""},
+        {title: "Say jo- Yandel" , url: ""},
+        {title: "Segurosqui- Daddy Yankee" , url: ""},
+        {title: "Métele sazón- Tego Claderón" , url: ""},
+        {title: "Aquí está tu caldo- Daddy Yankee" , url: ""},
+        {title: "Solo te llamé- Plan B" , url: ""},
+        {title: "Que vas a hacer- Zion & Lennox" , url: ""},
+        {title: "Se activaron los pistoleros- Wisin y Yandel" , url: ""},
+])
+Content(5, "Barrio Fino" , "Daddy Yankee" , "fino.jpg" , "https://www.youtube.com/playlist?list=PLtjecRADkOTmXuJqSw4TSnweinpSi7Hfc" , 
+    [
+        'Uno de los temas responsables por su expansión fue “Gasolina”, de Daddy Yankee, que se convirtió en un éxito global en 2004' ,
+        'En los inicios, hubo varios esfuerzos por censurar el género bajo la excusa de que el reguetón era inmoral y sus canciones promovían valores negativos y eran inapropiadas, especialmente para los jóvenes'
+    ], [
+        {title: "No Me Dejes Solo - Wisin y Yandel", url: ""},
+        {title: "Gasolina - Daddy Yankee", url: ""},
+        {title: "Lo Que Pasó, Pasó - Daddy Yankee", url: ""},
+        {title: "Salud y Vida - Daddy Yankee", url: ""},
+        {title: "Baila Morena - Hector y Tito", url: ""},
+        {title: "Yo Voy - Zion & Lennox", url: ""},
+        {title: "Vive Contigo - Nicky Jam", url: ""},
+        {title: "Vamos Pa La Calle - Hector El Father", url: ""},
+        {title: "Ven Bailalo - Angel & Khriz", url: ""},
+        {title: "Pobre Diabla - Don Omar", url: ""}
+])
+Content(6, "Pa'l Mundo" , "Wisin y Yandel" , "palmundo.jpg" , "https://www.deezer.com/mx/album/259182" ,
+    [
+        'El reguetón en 2005 se caracterizó por una mayor diversidad en las letras de las canciones, abordando temas como la autonomía y el empoderamiento femenino.' ,
+        'Este cambio no sólo enriqueció la diversidad musical del reguetón, sino que también contribuyó a desafiar las normas culturales y de género preexistentes en la industria musical' ,
+        'Por segundo año consecutivo, el reguetón se impuso en el 2005 como el ritmo tropical de mayor explosión musical'
+    ], [
+        {title: "Rakata - Wisin y Yandel", url: ""},
+        {title: "Castigo - Hector El Father", url: ""},
+        {title: "Mayor Que Yo - Wisin y Yandel", url: ""},
+        {title: "Rompe - Daddy Yankee", url: ""},
+        {title: "Noche de Sexo - Wisin y Yandel", url: ""},
+        {title: "Ella y Yo - Aventura", url: ""},
+        {title: "Bandolero - Don Omar", url: ""},
+        {title: "Sacala - Hector El Father", url: ""},
+        {title: "El Telefono - Wisin y Yandel", url: ""},
+        {title: "Calor - Hector El Father", url: ""}
+])
+Content(7, "King of Kings" , "Don Omar" , "kings.jpg" , "https://www.youtube.com/playlist?list=PL8uehVB81yy5KLbLeSWp9QF1JYYbXNXdn" ,
+    [
+        'El reguetón continuó su expansión global, con artistas como Daddy Yankee, Don Omar, Wisin & Yandel, y Tego Calderón ganando reconocimiento internacional' ,
+        'En 2006, se lanzaron varios álbumes de reguetón que tuvieron un gran impacto en la industria musical. Un ejemplo es el álbum “2006 Año De Exitos: Reggaeton”, una compilación de varios artistas' ,
+        'Al igual que en años anteriores, el reguetón continuó recibiendo críticas por el alto contenido sexual de sus letras y bailes',
+    ], [
+        {title: "Noche de Entierro - Wisin y Yandel", url: ""},
+        {title: "Alocate - Zion", url: ""},
+        {title: "Salio El Sol - Don Omar", url: ""},
+        {title: "Pegao - Wisin y Yandel", url: ""},
+        {title: "Yo Te Quiero - Wisin y Yandel", url: ""},
+        {title: "Frikitona - Plan B", url: ""},
+        {title: "Me Quiere Besar - Alexis y Fido", url: ""},
+        {title: "Rumor de Guerra - Hector El Father", url: ""},
+        {title: "Pam Pam - Wisin y Yandel", url: ""},
+        {title: "Con Ella Me Quedare - Zion", url: ""}
+])
+Content(8, "El Cartel: Big Boss" , "Daddy Yankee" , "bigboss.jpg" , "https://www.deezer.com/mx/album/259082812" , 
+    [
+        'El día mundial del Reggaeton fue establecido el 15 de septiembre del 2007, en este día se reconoce la importancia y el impacto cultural del género en la música contemporánea. Fue la fecha adoptada debido a un exitoso concierto que tuvo lugar en el estadio Hiram Bithorn de San Juan, en Puerto Rico, la cuna del reggaeton.' ,
+        'Urban Box Office publicó una compilación doble llamada Reggaetón Niños, en la que un grupo de menores coverea grandes éxitos del género (Rakata, Oye Mi Canto) pero con letras modificadas para que fueran aptas para menores de edad.'
+    ], [
+        {title: "Ella Me Levantó - Daddy Yankee", url: ""},
+        {title: "Ahora Es - Wisin y Yandel", url: ""},
+        {title: "No Te Veo - Jowell y Randy", url: ""},
+        {title: "Tradicional a Lo Bravo - Tego Calderón", url: ""},
+        {title: "Tra - Tito El Bambino", url: ""},
+        {title: "Amor de Pobre - Zion", url: ""},
+        {title: "Perdóname - La Factoría", url: ""},
+        {title: "Sexy Movimiento - Wisin y Yandel", url: ""},
+        {title: "Quizás Remix - Tony Dize", url: ""},
+        {title: "5 Letras - Alexis y Fido", url: ""}
+])
+Content(9, "Talento de barrio" , "Daddy Yankee" , "talento.jpg" , "https://open.spotify.com/intl-es/album/7JeWY0pvC27pCgn5eiSeV6" , 
+    [
+        'El reguetón comenzó a ser adoptado y reinterpretado por la comunidad LGBTTTIQ+, lo que contribuyó a la diversidad y evolución del género.' , 
+        'En este año Daddy Yankee crea el álbum Talento de Barrio que es la banda sonora de la película del mismo nombre, protagonizada por él mismo.'
+    ], [
+        { title: "Somos de Calle- Daddy Yankee", url: "" },
+        { title: "Pose- Daddy Yankee", url: "" },
+        { title: "Llamada de Emergencia- Daddy Yankee", url: "" },
+        { title: "¿Qué Tengo Que Hacer?- Daddy Yankee", url: "" },
+        { title: "Me Estás Tentando- Wisin y Yandel", url: "" },
+        { title: "Te Amo- Makano", url: "" },
+        { title: "Abusadora- Wisin y Yandel", url: "" },
+        { title: "Tuve un Sueño- Plan B", url: "" },
+        { title: "¿Para Qué Volver?- Arcángel", url: "" },
+        { title: "Déjame Entrar- Makano", url: "" }
+])
+Content(10, "IDon" , "Don Omar" , "idon.jpg" , "https://open.spotify.com/intl-es/album/20Jf4Vb1V3MMv1QI1cKNNI" , 
+    [
+        'El año 2009 fue un año importante para el reguetón, especialmente en Colombia. Durante este año, el género se consolidó como el preferido por los jóvenes. Fue en esta temporada que las emisoras de pop de la época le abrieron la puerta al llamado “género urbano” y empezaron a darle espacios importantes a artistas que sonaban tímidamente, pero que la gente empezó a pedir con desespero' , 
+        'En Colombia ya se conocía la propuesta de los reyes del reggaetón: Daddy Yankee, Don Omar, Tego Calderón y Wisin & Yandel. Sus temas sonaban en algunas emisoras y en las discotecas todo el mundo coreaba sus canciones, pero fue para esta época que las propuestas de reggaetón colombiano, especialmente paisa, empezó a conquistar a las diferentes audiencias' ,
+        'Fue así como conocimos a J Balvin y Reykon, dos de los pioneros del género en Colombia, quienes llevaron el reggaetón antioqueño a estancias internacionales1.'
+    ], [
+        {title: "Besos Mojados - Wisin y Yandel", url: ""},
+        {title: "Prrrum - Cosculluela", url: ""},
+        {title: "Mi Cama Huele a Ti - Tito El Bambino", url: ""},
+        {title: "Sexy Robotica - Don Omar", url: ""},
+        {title: "Under - Tito El Bambino", url: ""},
+        {title: "Virtual Diva - Don Omar", url: ""},
+        {title: "Por Un Segundo - Aventura", url: ""},
+        {title: "Na Na Nau Remix - Cosculluela", url: ""},
+        {title: "El Ritmo No Perdona - Daddy Yankee", url: ""},
+        {title: "Puesto Pa Ti - Gadiel", url: ""}
+])
+Content(11, "House of Pleasure" , "Plan B" , "house.jpg" , "https://open.spotify.com/intl-es/album/4s9iYsrtBIvkZn5AEbUbl0" , 
+    [
+        'Durante la década de 2010, el reguetón experimentó una expansión significativa, llegando a nuevas audiencias en todo el mundo. Artistas como J Balvin y Maluma comenzaron a crear música de reguetón, y el auge de los servicios de streaming de música como Spotify hizo que el reguetón fuera más accesible para los oyentes en todo el mundo' , 
+        'El reguetón también tuvo un impacto cultural significativo. Por ejemplo, el álbum “Real G 4 Life” de Ñengo Flow se convirtió en un mantra para los latinos criados en el barrio en todo el mundo. Este álbum es ahora uno de los más influyentes en la historia de la música latina, no solo en el rap y el reguetón'
+    ], [
+        {title: "Si No Le Contesto - Plan B", url: ""},
+        {title: "Es Un Secreto - Plan B", url: ""},
+        {title: "Loco - Jowell y Randy", url: ""},
+        {title: "Hasta Abajo - Don Omar", url: ""},
+        {title: "Taboo - Don Omar", url: ""},
+        {title: "Danza Kuduro - Don Omar", url: ""},
+        {title: "Cuando Cuando Es - J King y Maximan", url: ""},
+        {title: "La Despedida - Daddy Yankee", url: ""},
+        {title: "Te Iré a Buscar - Farruko", url: ""},
+        {title: "Estoy Enamorado - Wisin y Yandel", url: ""}
+])
+Content(12, "Otro Nivel de Música" , "J. Álvarez" , "nivel.jpg" , "https://open.spotify.com/intl-es/album/69SdZPwHXhMlwGSlAUXPAI?si=x9C1qcFiTt-9ePkiK4DwEA&nd=1&dlsi=85ada942e478475b" , 
+    [
+        'El reguetón continuó expandiéndose y ganando popularidad en todo el mundo. Artistas como Rosalía, Luis Fonsi, Reik, Shakira y Maná incursionaron en este género, lo que ayudó a multiplicar sus reproducciones' ,
+        'Reggaetoneros como Nicky Jam, J Balvin, y Maluma lograron llegar a espacios insospechados' ,
+        'El reguetón, a través de sus letras, promovía la cosificación de la mujer y la masculinidad tóxica, lo que repercutía en cómo los jóvenes concebían las relaciones y la sexualidad'
+    ], [
+        {title: "Energía - Alexis y Fido", url: ""},
+        {title: "Camuflaje - Alexis y Fido", url: ""},
+        {title: "Aprovecha - Nova y Jory", url: ""},
+        {title: "Llama Al Sol - Tito El Bambino", url: ""},
+        {title: "Junto Al Amanecer - J Alvarez", url: ""},
+        {title: "Haciéndote El Amor - Ñengo Flow", url: ""},
+        {title: "No Piensas En Mí - Cosculluela", url: ""},
+        {title: "No Dice Na - Ñengo Flow", url: ""},
+        {title: "Zun Zun Rompiendo Caderas - Wisin y Yandel", url: ""},
+        {title: "Sexo, Sudor y Calor - J Alvarez", url: ""}
+])
+Content(13, "El imperio Nazza" , "Varios artistas" , "nazza.jpg" , "https://open.spotify.com/intl-es/album/7A8VuUfwz8fekplklqluD2" , 
+    [
+        'El reguetón ha sido criticado por contener mensajes de violencia y rivalidad, por normalizar el consumo de drogas y sustancias psicoactivas, por cosificar y sexualizar a la mujer, así como por promover una visión hedonista y vacía. Sin embargo, también se reconoce que brinda opciones de empleo y constituye una oportunidad para que jóvenes que viven en entornos desfavorecidos sigan los pasos de otros artistas y alcancen el éxito' ,
+        'Un estudio realizado por Jesús Martín-Fernández, compositor y neurocirujano, encontró que el reguetón activa significativamente los ganglios basales del cerebro, neuronas que se relacionan con el movimiento y con el circuito del placer y la recompensa'
+    ], [
+        {title: "La Fórmula Sigue - Zion y Lennox", url: ""},
+        {title: "Se Cree Mala - Plan B", url: ""},
+        {title: "Te Dijeron - Plan B", url: ""},
+        {title: "Algo Me Gusta De Ti - Wisin y Yandel", url: ""},
+        {title: "Follow The Leader - Wisin y Yandel", url: ""},
+        {title: "Obsesión - Maluma", url: ""},
+        {title: "El Amante - J Alvarez", url: ""},
+        {title: "Limbo - Daddy Yankee", url: ""},
+        {title: "Zumba - Don Omar", url: ""},
+        {title: "No Sigue Modas - Don Omar", url: ""}
+])
+Content(14, "La Familia" , "J Balvin" , "familia.jpg" , "https://open.spotify.com/intl-es/album/0eaYHx42IseJf6jfxKi2Nr" , 
+    [
+        'Muchos artistas de reguetón comenzaron a cambiar su imagen y sonido para atraer a una audiencia más amplia. Esto incluyó la incorporación de elementos de pop, electrónica y otros géneros en su música' ,
+        'El reguetón se convirtió en una influencia importante en la cultura pop. Artistas de otros géneros comenzaron a incorporar elementos de reguetón en su música, lo que ayudó a popularizar aún más el género' ,
+        'El reguetón comenzó a recibir reconocimiento internacional en 2013. Artistas de reguetón fueron invitados a actuar en grandes eventos y festivales de música en todo el mundo.'
+    ], [
+        {title: "6 AM - J Balvin", url: ""},
+        {title: "Yo Te Lo Dije - J Balvin", url: ""},
+        {title: "Prendan Los Motores - Jowell y Randy", url: ""},
+        {title: "Ay Vamos - J Balvin", url: ""},
+        {title: "Hasta Abajo - Yandel", url: ""},
+        {title: "Déjate Amar - Yandel", url: ""},
+        {title: "Moviendo Caderas - Yandel", url: ""},
+        {title: "Besas Tan Bien - Farruko", url: ""},
+        {title: "A Beber - Nicky Jam", url: ""},
+        {title: "La Familia - J Balvin", url: ""}
+])
+Content(15, "Love y Sex" , "Plan B" , "lovesex.jpg" , "https://www.deezer.com/mx/album/8627654" , 
+    [
+        'Colaboraciones internacionales: El reguetón vio un aumento en las colaboraciones internacionales, con artistas de otros géneros musicales uniéndose a reggaetoneros para crear éxitos globales' ,
+        'Canciones como “Adrenalina” de Wisin, Jennifer Lopez y Ricky Martin se convirtieron en éxitos virales, impulsando la popularidad del reguetón en las plataformas de redes sociales y servicios de streaming' ,
+        'El reguetón comenzó a ser más reconocido en premiaciones de música, obteniendo nominaciones y premios que antes no se consideraban para el género.'
+    ], [
+        {title: "Choca - Plan B", url: ""},
+        {title: "Fanática Sensual - Plan B", url: ""},
+        {title: "Mi Vecinita - Plan B", url: ""},
+        {title: "Candy - Plan B", url: ""},
+        {title: "Adrenalina - Ricky Martin", url: ""},
+        {title: "Que Viva la Vida - Wisin", url: ""},
+        {title: "Salgo - Farruko", url: ""},
+        {title: "Lejos de Aquí - Farruko", url: ""},
+        {title: "Travesuras - Nicky Jam", url: ""},
+        {title: "Si No Te Tengo - Farruko", url: ""}
+])
+Content(16, "Pretty Boy, Dirty Boy" , "Maluma" , "predirty.jpg" , "https://open.spotify.com/intl-es/album/3PomvFR694SrCSZzDWMWV7" , 
+    [
+        'El reguetón también enfrentó algunas controversias en 2015. Por ejemplo, hubo críticas sobre la representación de las mujeres en las letras y videos de reguetón8910. En 2015, se lanzó una campaña muy exitosa, llamada “Piénsalo - no dejes que la música te degrade”, que tradujo el lenguaje horrendo de varias canciones en imágenes que representan el significado de este discurso' ,
+        'En los Premios Billboard de la Música Latina 2015, J Balvin ganó el premio al Artista del Año1. Además, Don Omar, una figura clave del reguetón, recibió varios reconocimientos en 2015'
+    ], [
+        {title: "Sígueme y Te Sigo - Daddy Yankee", url: ""},
+        {title: "El Perdón - Enrique Iglesias", url: ""},
+        {title: "Nota de Amor - Wisin", url: ""},
+        {title: "Me Voy Enamorando - Chino y Nacho", url: ""},
+        {title: "Borro Cassette - Maluma", url: ""},
+        {title: "Nacimos Para Morir - Anuel AA", url: ""},
+        {title: "Ginza - J Balvin", url: ""},
+        {title: "Sunset - Farruko", url: ""},
+        {title: "Ganas de Ti - Zion y Lennox", url: ""},
+        {title: "Encantadora - Yandel", url: ""}
+])
+Content(17, "Energía" , "J Balvin " , "energia.jpg" , "https://open.spotify.com/intl-es/album/4cGc9Eeb3Gjff2Aq5ILLEf" ,
+    [
+        'En 2016, hubo una creciente campaña en Facebook contra el reguetón, un género musical latino que fusiona el hip hop y el reggae dancehall. La campaña, titulada “Usa la razón — que la música no degrade tu condición”, utilizó imágenes impactantes para ilustrar las letras perturbadoras de las canciones de reguetón populares, que suelen ser violentas, lascivas y degradantes para las mujeres' ,
+        'Algunos artistas de reguetón comenzaron a ganar reconocimiento en 2016. Por ejemplo, el cantante y compositor estadounidense de reggaeton Nicky Jam abrió el doble CD con “Hasta el Amanecer”, el tema que se hizo viral con la interpretación casera de Cristiano Ronaldo y su hijo'
+    ], [
+        {title: "Hasta el Amanecer - Nicky Jam", url: ""},
+        {title: "Me Reclama - Ozuna", url: ""},
+        {title: "Andas en Mi Cabeza - Chino y Nacho", url: ""},
+        {title: "No Pasa de Moda - Tego Calderón", url: ""},
+        {title: "El Perdedor - Maluma", url: ""},
+        {title: "Un Bellaqueo - Ozuna", url: ""},
+        {title: "Shaky Shaky - Daddy Yankee", url: ""},
+        {title: "Dile Que Tú Me Quieres - Ozuna", url: ""},
+        {title: "Vente Pa' Ca - Ricky Martin", url: ""},
+        {title: "Vacaciones - Wisin", url: ""}
+])
+Content(18, "Odisea" , "Ozuna" , "odisea.jpg" , "https://open.spotify.com/intl-es/album/4s05NbwGgw5SO42AdsN5Oo" , 
+    [
+        'La canción “Despacito” de Luis Fonsi y Daddy Yankee, que incorpora ritmos de reguetón, se convirtió en un fenómeno global en 2017, dominando las listas de éxitos en todo el mundo' ,
+        'En los Premios Billboard de la Música Latina 2017, Nicky Jam, una estrella de reguetón que se recuperó después de una década de silencio luchando contra la adicción a las drogas, fue el gran ganador, llevándose seis premios'
+    ], [
+        {title: "La Rompe Corazones - Ozuna & Daddy Yankee", url: ""},
+        {title: "Despacito - Luis Fonsi", url: ""},
+        {title: "Súbeme la Radio - Enrique Iglesias", url: ""},
+        {title: "Felices los 4 - Maluma", url: ""},
+        {title: "Mi Gente - J Balvin", url: ""},
+        {title: "Mayores - Becky G", url: ""},
+        {title: "Qué Va - Ozuna", url: ""},
+        {title: "Una Lady Como Tú - Manuel Turizo", url: ""},
+        {title: "Perro Fiel - Shakira", url: ""},
+        {title: "Cásate Conmigo - Silvestre Dangond & Nicky Jam", url: ""}
+])
+Content(19, "X100PRE" , "Bad Bunny" , "siempre.jpg" , "https://open.spotify.com/intl-es/album/7CjJb2mikwAWA1V6kewFBF" , 
+    [
+        'En 2018, se celebró el Reggaeton Beach Festival en Barcelona, que reunió a grandes estrellas mundiales del movimiento latino' ,
+        'Karol G fue coronada como la Mejor Nueva Artista en los Latin GRAMMYs de 2018, lo que le dio a la artista de reguetón colombiana su primer premio' ,
+        'Hubo un aumento en las colaboraciones internacionales en el reguetón. Por ejemplo, DJ Snake presentó a Cardi B, Ozuna y Selena Gómez en el gran éxito “Taki Taki”, que debutó en el número 1 en la lista Hot Latin Songs de Billboard en 2018'
+    ], [
+        {title: "El Baño - Bad Bunny", url: ""},
+        {title: "Todo Comienza en la Disco - Daddy Yankee", url: ""},
+        {title: "Dura - Daddy Yankee", url: ""},
+        {title: "Me Niego - Reik", url: ""},
+        {title: "X (Equis) - J Balvin", url: ""},
+        {title: "Única - Ozuna", url: ""},
+        {title: "Quiere Beber - Anuel AA", url: ""},
+        {title: "Ponle - J Balvin", url: ""},
+        {title: "Calma - Farruko", url: ""},
+        {title: "MIA - Bad Bunny", url: ""}
+])
+Content(20, "Oasis" , "J Balvin y Bad Bunny" , "oasis.jpg" , "https://open.spotify.com/intl-es/album/6ylFfzx32ICw4L1A7YWNLN" ,
+    [
+        'En septiembre de 2019, algunos de los artistas más destacados del reguetón llamaron la atención publicando en sus redes sociales la frase “Sin reggaetón no hay Latin Grammy”. Esto fue en respuesta a la falta de representación del reguetón en muchas de las categorías principales de los premios' ,
+        'En julio de 2019, el reguetón se convirtió en un vehículo para la resistencia en Puerto Rico. Los manifestantes usaron la música para unirse y expresar su descontento, lo que finalmente llevó a la renuncia del gobernador Ricky Rosselló'
+    ], [
+        {title: "Vacilón - Don Omar", url: ""},
+        {title: "Fantasías - Rauw Alejandro", url: ""},
+        {title: "Que Tire Pa' 'Lante - Daddy Yankee", url: ""},
+        {title: "Chica Bombastic - Wisin y Yandel", url: ""},
+        {title: "Secreto - Anuel AA", url: ""},
+        {title: "Rebota - Guaynaa", url: ""},
+        {title: "Con Calma - Daddy Yankee", url: ""},
+        {title: "Aullando - Romeo Santos", url: ""},
+        {title: "Verte Ir - Anuel AA", url: ""},
+        {title: "No Me Conoce - Jhay Cortez", url: ""}
+])
+Content(21, "YHLQMDLG" , "Bad Bunny" , "badbunny.jpg" , "https://open.spotify.com/intl-es/album/5lJqux7orBlA1QzyiBGti1" , 
+    [
+        'El reguetón continuó su dominio en la música pop latina1. Artistas como Bad Bunny, María Becerra y Manuel Turizo estuvieron omnipresentes, desde bares, clases de gimnasia, fiestas hasta anuncios de televisión' , 
+        'La música Urbana (también conocida como “Latin urban”) dominó las listas internacionales de streaming1. Este género, que incluye reguetón, dembow, dancehall, hip hop latino y otros, ahora representa casi un cuarto de las listas a nivel global1' ,
+        'Esta explosión de la música Urbana ha provocado un aumento en el interés internacional en el español, el tercer idioma más hablado en el planeta con casi 600 millones de hablantes1.'
+    ], [
+        {title: "Morado - J Balvin", url: ""},
+        {title: "Ganas de Ti - Sech", url: ""},
+        {title: "Yo Perreo Sola - Bad Bunny", url: ""},
+        {title: "Relación - Sech", url: ""},
+        {title: "Jangueo - Tego Calderón", url: ""},
+        {title: "Sigue - Arcángel", url: ""},
+        {title: "Caramelo - Ozuna", url: ""},
+        {title: "Reggaetonera - Anuel AA", url: ""},
+        {title: "La Tóxica - Farruko", url: ""},
+        {title: "Por Mi Reggae Muero - Yandel", url: ""}
+    ]
+)
+Content(22, "KG0516" , "Karol G" , "karolg.jpg", "https://open.spotify.com/intl-es/album/4FftCsAcXXD1nFO9RFUNFO" , 
+    [
+        'rtistas como Rauw Alejandro y C. Tangana se negaron a limitarse a los parámetros de sus géneros esperados. Por ejemplo, el éxito de Rauw “Todo De Ti” comenzó con la cuenta regresiva de tambores acústicos, luego mezcló su sensibilidad urbana con toques de disco y new wave' ,
+        'A medida que el mundo comenzó a reconstruirse a partir de COVID-19 en 2021, las estrellas latinas utilizaron sus experiencias para inspirar arte que tuvo un impacto duradero'
+    ], [
+        {title: "¿Qué Más Pues? - J Balvin, Maria Becerra", url: ""},
+        {title: "Yonaguni - Bad Bunny", url: ""},
+        {title: "El Makinon - Karol G feat. Mariah Angeliq", url: ""},
+        {title: "Pareja Del Año - Sebastian Yatra feat. Myke Towers", url: ""},
+        {title: "Ram Pam Pam - Natti Natasha & Becky G", url: ""},
+        {title: "Tata (Remix) - Eladio Carrión, J Balvin, Daddy Yankee, Bobby Shmurda", url: ""},
+        {title: "Sal y Perrea - Sech", url: ""},
+        {title: "Muñeca - Villano Antillano & Ana Macho", url: ""},
+        {title: "Gueto - Iza", url: ""},
+        {title: "Fumeteo (Remix) - Feid, Mora, Eladio Carrión", url: ""}
+])
+Content(23, )
 
 
 // Document Factory
