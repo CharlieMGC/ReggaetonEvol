@@ -456,7 +456,7 @@ Content(23, "Un Verano Sin Ti" , "Bad Bunny" , "verano.jpg" , "https://www.youtu
         {title: "MAMIII - Becky G, Karol G", url: "https://www.youtube.com/watch?v=flL8ZMqIWGA"}
 ])
 
-COntent(24, "DATA" , "Tainy" , "data.jpg" , "https://www.youtube.com/playlist?list=PLvgNK3ZRRVF2BHc4l0QmuKFvFgMkijENr" , 
+Content(24, "DATA" , "Tainy" , "data.jpg" , "https://www.youtube.com/playlist?list=PLvgNK3ZRRVF2BHc4l0QmuKFvFgMkijENr" , 
     [
         'Bad Bunny regresó a sus orígenes con “Nadie sabe lo que va a pasar mañana”, un álbum que generó mucho revuelo con la tiradera de sus canciones.' ,
         'Eladio Carrión fue nombrado por Bad Bunny como el nuevo rey del trap, y su álbum “3men2 KBRN” en donde une fuerzas con grandes hip-hoperos como 50 cent, Lil Wayne y Future fue muy popular.' ,
@@ -491,6 +491,7 @@ Content(25, "SAYONARA" , "Álvaro Díaz" , "sayonara.jpg" , "https://www.youtube
         {title: "El Corte Que Le Damos - Chocolate Blanco", url: "https://www.youtube.com/watch?v=u7SLZYegmrw"},
         {title: "Posdata - Paulo Londra", url: "https://www.youtube.com/watch?v=NuWQgh-RrSo"}
 ])
+
 
 // Document Factory
 // 
