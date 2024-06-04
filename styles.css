@@ -1,36 +1,32 @@
 html,
 body {
-    height: 100%;
+    display: flex;
     margin: 0;
-    display: grid;
     background-color: #334;
     font-family: sans-serif;
+    justify-content: center;
 }
 
 main {
-    place-self: center;
-    height: 100%;
-    width: 100%;
-    max-width: 1400px;
-    display: grid;
-    grid-template-columns: 17% auto 20%;
-    grid-template-rows: 12% auto;
     background: white;
-    ;
+    display: flex;
+    min-height: 100vh;
+    padding: 0 2rem;
 }
 
 .header {
-    grid-column-start: 1;
-    grid-column-end: 4;
     background: url(./assets/header.png);
     background-size: cover;
     color: white;
     padding: 2rem;
     display: flex;
     align-items: center;
+    height: 64px;
+    width: calc(100% - 4rem);
 }
 
 .timeline {
+    width: 15rem;
     display: flex;
     flex-direction: column;
     padding: 1rem 0;
@@ -92,9 +88,14 @@ main {
     }
 }
 
+.songslist-content {
+    display: flex;
+    flex: 1;
+    width: 100%;
+}
+
 .content {
-    display: grid;
-    grid-template-rows: 70% auto;
+    width: 70%;
     padding: 1rem;
     border-right: 1px solid rgba(128, 128, 128, 0.37);
 }
@@ -103,6 +104,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 1rem;
 
     div {
         display: flex;
@@ -118,6 +120,7 @@ main {
         }
 
         a {
+            min-width: 116px;
             border: 1px solid blueviolet;
             background-color: rgba(137, 43, 226, 0.349);
             border-radius: 5px;
@@ -152,6 +155,7 @@ main {
 }
 
 .songslist {
+    width: 30%;
     display: flex;
     flex-direction: column;
     padding: 1rem;
@@ -174,5 +178,56 @@ main {
 
     a:hover {
         color: blueviolet
+    }
+}
+
+img {
+    display: flex;
+    max-width: 100%;
+}
+
+.fill {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    max-width: 1400px;
+}
+
+@media (max-width: 700px) {
+
+    .content {
+        border-right: none;
+    }
+
+    .content>div:first-child div {
+        flex-direction: column;
+    }
+
+    main {
+        padding: 0 1.5rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .songslist-content {
+        flex-direction: column;
+    }
+
+    .songslist{
+        width: 100%;
+    }
+
+    .header {
+        padding: 1.5rem;
+        display: flex;
+        align-items: center;
+        height: 56px;
+        width: calc(100% - 3rem);
+    }
+
+    .timeline {
+        width: 5rem;
     }
 }
